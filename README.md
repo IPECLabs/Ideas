@@ -195,6 +195,23 @@ If you have some which you like to share with everyone then please feel free to 
     + __Difficulty__: varies from beginner to intermediate
 
 -------------------------------------------------------------------------------
+# 2gsheet
+
+DATE: 13/10/18
+
+* A python package that can changes a certain file format to google sheet.
+    - Formats could be JSON file(s), CSV file(s), read out tables from HTML page and then put it in google sheet.
+    - Basic idea is to take all the data from json or csv and make a pandas data frame out of it.
+    - After that simpliy put that pandas dataframe to the spread sheet.
+
+* There are lots of packages to interact with google spread sheet but I like [pygsheet](https://github.com/nithinmurali/pygsheets).
+
+* [DEMO](https://gist.github.com/mzfr/845e9d2bc0345c6d8e5db523b19044c7)
+    - This is just for Specific JSON files but idea is similar for other formats too.
+
+    + __Skill required__: python
+    + __Difficulty__: easy
+-------------------------------------------------------------------------------
 # **Tools you can contribute to**
 
 *   **Pylama**

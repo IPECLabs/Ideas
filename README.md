@@ -5,14 +5,6 @@ This is a general idea list.
 If you have some which you like to share with everyone then please feel free to open an issue.
 
 -------------------------------------------------------------------------------
-## IP bot
-
-*   The basic idea of this bot is to have something related with the user/client IP address.
-*   This bot should get a IP address easily for any user you're talking to on FB/telegram/whatsapp etc
-*   Basic idea can be to just send a link to a user that gets the IP
-    *   Advanced would be sending something which doesn't raise suspicion.
-
--------------------------------------------------------------------------------
 ## Interface to view @Github user's @activity @feed
 
 *   It has now been removed from the website, but is still available via the @API and the @atom feed.
